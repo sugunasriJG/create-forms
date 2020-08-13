@@ -1,0 +1,33 @@
+.continue-btn{
+    appearance:none;
+    background-color:rgb(92, 201, 119);
+    border-bottom-left-radius:30px;
+    border-bottom-right-radius:30px;
+    border-top-left-radius:30px;
+    border-top-right-radius:30px;
+    box-sizing:border-box;
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+    display:inline-block;
+    font-family:AvenirNext-DemiBold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    font-style:normal;
+    font-weight:400;
+    height:30px;
+    line-height:27px;
+    list-style-type:none;
+    padding-bottom:2px;
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:1px;
+    text-align:center;
+    text-decoration-color:#ffffff;
+    text-decoration-line:none;
+    text-decoration-style:solid;
+    transition-delay:0s;
+    transition-duration:0.5s;
+    transition-property:background-color;
+    transition-timing-function:ease;
+    width:175.313px;
+    -webkit-font-smoothing:antialiased;
+}
